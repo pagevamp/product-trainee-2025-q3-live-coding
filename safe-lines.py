@@ -1,0 +1,2 @@
+def safeReport(line):
+    pass
